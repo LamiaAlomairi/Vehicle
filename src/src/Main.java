@@ -33,7 +33,7 @@ public class Main {
 	     electricVehicle.stop();
 	     System.out.println();
 	     System.out.println("_____________________________"); 
-	     
+	                               
 	     System.out.println(" Truck");
 	     truck.setMake("Korea");
 	     truck.setModel("A1");
